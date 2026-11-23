@@ -41,4 +41,4 @@ The chatbot consists of two main components:
 
 ## Prototype Screenshots
 
-The screenshots in this repository show the original chatbot prototype I developed during my internship, including its user interface and examples of product-related responses.
+The screenshots folder in this repository show the original chatbot prototype I developed during my internship, including its user interface and examples of product-related responses.
